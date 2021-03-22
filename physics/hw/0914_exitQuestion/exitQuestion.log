@@ -1,0 +1,664 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2020.8.28)  14 SEP 2020 16:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,mathjax,charset=utf-8
+,html5.a.b.c.\input "\detokenize{exitQuestion.tex}"
+(./exitQuestion.tex (/usr/share/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-04-15-14:52
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-05-25-14:00
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/05/13 3.44 The Babel package
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+\l@babelnohyphens=\language86
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen136
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count178
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count179
+\leftroot@=\count180
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count181
+\DOTSCASE@=\count182
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count183
+\c@MaxMatrixCols=\count184
+\dotsspace@=\muskip16
+\c@parentequation=\count185
+\dspbrk@lvl=\count186
+\tag@help=\toks19
+\row@=\count187
+\column@=\count188
+\maxfields@=\count189
+\andhelp@=\toks20
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+) (/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count190
+\calc@Bcount=\count191
+\calc@Adimen=\dimen145
+\calc@Bdimen=\dimen146
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count192
+\calc@Cskip=\skip54
+) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)) (/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+(/usr/share/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-05-25-14:00
+tex4ht warning: package eso-pic was prevented from loading
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+) (/usr/share/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-05-25-14:00
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+(/usr/share/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+\AM@pagewidth=\dimen149
+\AM@pageheight=\dimen150
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+(/usr/share/texmf-dist/tex/latex/pdfpages/ppnull.def
+File: ppnull.def 2020/01/28 v0.5q Pdfpages dummy driver (AM)
+
+Package pdfpages Warning: I will use a dummy \includepdf command
+(pdfpages)                which will insert empty pages instead of the actual
+(pdfpages)                PDF file because we are running in DVI mode or with
+(pdfpages)                dvips driver.
+
+))
+\AM@pagebox=\box47
+\AM@global@opts=\toks24
+\AM@pagecnt=\count193
+\AM@toc@title=\toks25
+\c@AM@survey=\count194
+\AM@templatesizebox=\box48
+) (/usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+
+Package transparent Warning: Loading aborted, because pdfTeX is not running in 
+PDF mode.
+
+) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2020-03-12-14:03
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-04-15-14:52
+--- needs --- tex4ht exitQuestion ---
+\tmp:cnt=\count195
+(./exitQuestion.tmp)
+\tmp:dim=\skip55
+(./exitQuestion.xref)
+\:refout=\write3
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: xhtml,mathjax,charset=utf-8,html5,html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+)
+\:tokwrite=\toks26
+\:tokpage=\toks27
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\:tocout=\write4
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+) (/usr/share/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2020-06-02-14:05
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+(/usr/share/texmf-dist/tex/generic/tex4ht/mathjax-latex-4ht.4ht
+version 2020-05-31-14:06
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+) (/usr/share/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-05-25-14:00
+) (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-06-03 L3 programming layer (loader) 
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-06-03 L3 backend support: dvips
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count197
+\l__pdf_backend_content_box=\box50
+\l__pdf_backend_model_box=\box51
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+\g__pdf_backend_link_sf_int=\count266
+)) (/usr/share/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)))) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2018-11-06-15:55
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/report.4ht (/usr/share/texmf-dist/
+tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/inputenc.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/babel.4ht (/usr/share/texmf-dist/t
+ex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/english.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2019-12-29-14:17
+\tmp:muskip=\muskip17
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/amsopn.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2018-10-01-14:24
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/graphics.4ht (/usr/share/texmf-dis
+t/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-05-27-14:15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-06-03-14:10
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (./exitQuestion.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+(/usr/share/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-05-25-14:00
+))
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+(/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+\AtBeginShipoutBox=\box52
+))
+--- file exitQuestion.css ---
+[1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+6.
+(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [1] (./exitQuestion.aux) ) 
+Here is how much of TeX's memory you used:
+ 9086 strings out of 480479
+ 117781 string characters out of 5905985
+ 494311 words of memory out of 5000000
+ 24788 multiletter control sequences out of 15000+600000
+ 543609 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 49i,6n,55p,1354b,527s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on exitQuestion.dvi (3 pages, 13512 bytes).

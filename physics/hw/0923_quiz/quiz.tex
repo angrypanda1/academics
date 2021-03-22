@@ -1,0 +1,88 @@
+\documentclass[a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[english]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+\title{Circular Motion Quiz}
+\author{Svadrut Kukunooru}
+\begin{document}
+    \maketitle
+    \begin{enumerate}
+    \setcounter{enumi}{9}
+\item Miranda has a mass of 67.6 kg and now flies her plane in a vertical loop of similar radius as before: 597.1 m. If her uniform speed is no 109.6 $m\cdot s^{-1}$, what is the normal force acting on her at the top of her path? I am assuming your answer is in N. \\ \\ 
+    \[
+    F_n = F_g - F_c
+    .\] 
+    \[
+    F_n = mg - \frac{mv^2}{r}
+    .\] 
+    \[
+        F_n = (67.6 \times 9.8) - \frac{67.6\times 109.6^2}{597.1}
+    .\] 
+\[
+        F_n = \boxed{697.6\ \text{N in the other direction.}}
+\]
+\item Miranda flies her plane in a vertical loop of radius 600.4 m such that at the top of the loop she just experiences "apparent weightlessness". What is the uniform speed, in $m \cdot s^{-1}$, of the plane that will result in this experience?
+    \[
+    g = \frac{v^2}{r}
+    .\] 
+    \[
+    9.8 = \frac{v^2}{600.4}
+    .\] 
+    \[
+        v = \boxed{76.71\ \frac{m}{s}.}
+    \]
+\item Miranda's twin sister, MElinda, is also a stunt pilot. Melinda has a mass of 65.57 kg. When she flies herp lane in a vertical loop such that the bottom has a radius of curvature of 618.9 m at $107.3\ m \cdot s^{-1}$, what is the normal force she will feel when she is at the bottom of her loop? I will assume your answer is in N (newtons). 
+    \[
+        F_n = F_c - F_g
+    .\] 
+    \[
+    F_c = \frac{mv^2}{r} - mg
+    .\] 
+    \[
+        F_c = \frac{65.57 \times 107.3^2}{618.9} - (65.57\times 9.8)
+    .\] 
+    \[
+        F_c = \boxed{577.2\ \text{N}}
+    .\] 
+
+\item A toy train of mass 280 g is travelling on a circular track of radius 45.5 cm at a speed of $29.1\ cm \cdot s^{-1}$. What is the magnitude of the net force, in N, allowing it to remain in its circular path?
+    F_n = \frac{mv^2}{r}
+    .\] 
+    \[
+        F_n = \frac{0.280\times 0.291^2}{0.455}
+    .\] 
+    \[
+        F_n = \boxed{0.052\ \text{N}}
+    .\] 
+
+\item A race car with a mass of 1575 kg goes around a flat circular track of radius 230.1 m at a constant speed of 268.7 km h. What is the car's centripetal accleration? 
+    \[
+    F_c = \frac{v^2}{r}
+    .\] 
+    \[
+    F_c = \frac{74.6^2}{230.1}
+    .\] 
+    \[
+        F_c = \boxed{24.1}
+    .\] 
+
+\end{enumerate}
+\end{document}
+

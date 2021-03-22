@@ -1,0 +1,196 @@
+\documentclass[a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[english]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+\title{Circular Motion}
+\author{Svadrut Kukunooru}
+\begin{document}
+    \maketitle
+    \section{Circular Motion Intro}
+    \begin{itemize}
+        \item \textit{Angular Displacement} ($\theta$)
+        \begin{itemize}
+            \item Angle which an object moves through in an arc
+            \item Measured in \textit{radians}
+            \item \textit{NOT A VECTOR QUANTITY} (unlike linear displacement)
+            \item $\theta = \frac{s}{r}$ is how you can relate arc length to radius, $r$, and distance traveled on the arc, $s$. 
+        \end{itemize}
+        \item \textit{Angular Speed} is calculated with the equation $\omega = \frac{\Delta \theta}{\Delta t}$. 
+            \begin{itemize}
+                \item Units: $\text{rad} \cdot s^{-1}$
+            \end{itemize}
+        \item \textit{Period (T)}
+            \begin{itemize}
+                \item The time required for an object to make one complete cycle
+            \end{itemize}
+        \item \textit{Frequency (f)}: The number of cycles per second (measured in \textbf{Hz})
+        \item Frequency can be related to period with the equation
+            \[
+            f = \frac{1}{T}
+            .\] 
+    \end{itemize}
+    \subsection{Practice Problems}
+    \begin{enumerate}
+        \item A rope goes over a circular pulley with a radius of 6.50 cm. If the pulley makes exactly 4 revolutions without the rope slipping, what length of rope passes over the pulley? \\ \\
+            For this problem, all you need to do is calculate the circumference and multiply it by 4.
+            \[
+                C = \pi(13) \times 4 = \fbox{$52\pi$}
+            .\] 
+        \item A ball with a radius of 15.0 cm rolls on a level surface. The translational speed of the center of mass is 0.250 $m \cdot s^{-1}$.  What is the angular speed about the center of mass if the ball rolls without slipping? \\ \\ 
+            Angular speed can be related to translational speed with the equation
+            \[
+            \omega = \frac{v_t}{r}
+            .\] 
+            Therefore, 
+            \[
+                \frac{2 \times 0.250}{0.15} = \fbox{$3.33\ \frac{rad}{s}$}
+            .\] 
+        \item A bocce ball with a diameter of 6.00 cm rolls without slipping on a level lawn. It has an initial angular speed of 2.35 $\frac{rad}{s}$ and comes to rest after 2.50 m. Assuming uniform acceleration (deceleration), determine the following:
+            \begin{enumerate}
+                \item The magnitude of its angular deceleration \\ \\
+                    You can find angular deceleration with the kinematic equation
+                    \[
+                        \omega_f^2 = \omega_0^2 + 2\alpha(\Delta \theta)
+                    .\] 
+                    You can find angular displacement with the equation
+                    \[
+                    \theta = \frac{s}{\pi d}
+                    .\] 
+                    Plugging values in, you get
+                    \[
+                        \frac{2.50}{\pi(0.06)} = 13.26\ \text{rotations}
+                    .\] 
+                    Converting to radians gives you
+                    \[
+                        13.26 \times \frac{2\pi}{1\ \text{rotation}} = 83.6\ \text{rad}
+                    .\] 
+                    Plugging everything into the original equation:
+                    \[
+                        0^2 = (2.35)^2 + 2\alpha(83.6)
+                    .\] 
+                    \[
+                        \fbox{$\alpha = -0.033\ \text{rad} \cdot s^{-2}$}
+                    .\] 
+                    \item The magnitude of its lineaer deceleration \\ \\ 
+                        With the equation 
+                         \[
+                        v= \omega r
+                        .\] 
+                        \[
+                        v = 2.35 \times 0.0300
+                        .\] 
+                        \[
+                        u = \fbox{$0.0705\ m \cdot s^{-1}$}
+                        .\] 
+            \end{enumerate}
+    \end{enumerate}
+    \section{Uniform Circular Motion Post-Lab Discussion}
+    \begin{itemize}
+        \item Radius's effect on force is \textbf{decreasing exponential}
+        \item Mass's effect on force is \textbf{increasing linear}
+        \item Speed's effect on force is \textbf{increasing exponential}
+    \end{itemize}
+    From these conclusions, you can calculate centripetal force with the equation
+    \[
+    \Sigma F_c = \frac{mv^2}{r}
+    .\] 
+    \subsection{Practice Questions}
+    What is the average speed of the Earth in its orbit around the Sun given the information below?
+    \[
+        m_{earth} = 5.98 \times  10^{24}  \\ 
+    \] 
+    \[
+    r_orbit = 1.50 \times 10^{11} 
+\]
+\[    
+    F_{g(E+S)} = 3.53 \times 10^{22}
+    .\] 
+    You can calculate the speed of the earth with the equation 
+    \[
+    v = \sqrt{\frac{F_c r}{m}} 
+    .\] 
+    \[
+        v = \sqrt{\frac{3.53 \times 10^{22} \times 1.50 \times 10^{11}}{5.98 \times 10^{24}}} 
+    .\] 
+    \[
+        \fbox{$v = 2.98 \times 10^4$}
+    .\] 
+    \subsection{Lecture, Continued}
+    Since Newton's 2nd law is 
+    \[
+        F_{net} = ma
+    .\] 
+    Therefore, the centripetal acceleration can be calculated by 
+    \[
+    a_c = \frac{v^2}{r}
+    .\] 
+    \subsection{Sample Problem}
+    A stunt pilot in an air show performs a loop-the-loop in a vertical circle of radius $3.21 \times 10^3$ m. During this performance the pilot whose wight is 806 N, maintains a constant speed of $2.25 \times 10^2$ m/s. 
+    \begin{enumerate}
+        \item What is the magnitude of the centripetal force acting on the pilot? \\
+        You can calculate centripetal force with the equation
+        \[
+        F_c = \frac{mv^2}{r}
+        .\] 
+        The variables we have are $m = \frac{806}{9.8}\ \text{kg}$, $v = 2.25 \times 10^2\ \frac{m}{s}$, and radius $3.21 \times 10^3\ \text{m}$. Therefore, when we substitute all these values in, we get 
+        \[
+            F_c = \frac{82.24 \times 50625}{3.21 \times 10^3} = 1297\ N
+        .\] 
+        \item What is the magnitude of the normal force acting on the pilot at the top of his path? 
+        We can calculate this with the equation
+        \[
+        F_n = F_c - F_g = \frac{mv^2}{r} - mg = 1297 - 806 = 491\ N
+        .\] 
+        \item What is the magnitude of the normal force acting on the pilot at the bottom of the path?
+            \[
+            F_N = F_c + F_g = \frac{mv^2}{r} + mg = 1296 + 806 = 2100\ N
+            .\] 
+        \item What is the minimum velocity the pirate can travel and still maintain circular motion? \\
+        At the top, if you go at minimum speed, the weight is the only thing that is causing circular motion. Therefore,
+        \[
+        \frac{v^2}{3.21\times 10^3} = 9.8
+        .\] 
+        \[
+        v = 177\ \frac{m}{s}
+        .\] 
+    \end{enumerate}
+    \subsection{Sample Problem}
+    Keys, $m = 150.0\ g$, are attached to a string and swung around in a vertical circle with radius of $35.0 cm$.
+    \begin{enumerate}
+        \item What is the minimum speed at which the keys must be moving in order to remain in uniform circular motion? \\
+        \[
+        \frac{v^2}{0.35} = 9.8
+        .\] 
+        \[
+        v = 1.85\ \frac{m}{s}
+        .\] 
+        \item What is the tension in the string when the keys, at this speed, are at the bottom of their circular path? \\
+        \[
+        T = \frac{mv^2}{r} + mg
+        .\] 
+        \[
+            T = \frac{0.15 \times 1.85^2}{0.35} + (0.15)(9.81)
+        .\] 
+        \[
+        T = 2.94\ N
+        .\] 
+    \end{enumerate}
+
+\end{document}

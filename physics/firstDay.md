@@ -1,0 +1,11 @@
+# IB Physics HL 2: Orientation
+- At-home labs where we can use equipment at home
+- EVERYTHING WILL BE IN CANVAS
+- Still will use WebAssign
+- Some changes in policy, but basically the same as class
+- Most tests are in WebAssign and some quizzes are in Canvas
+- No Paper 3
+- Still stuff about electricity and magnetism
+- Lesson recordings on a page on Canvas
+- Access to online textbook
+- Weekly Agenda contains summary of the things we did

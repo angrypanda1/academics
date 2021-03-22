@@ -1,0 +1,66 @@
+\documentclass[a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[english]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+\title{Uniform Circular Motion}
+\author{Svadrut Kukunooru}
+\begin{document}
+    \maketitle
+    \begin{enumerate}
+        \item What is the speed, in m/s, of the roller coaster at the top of the loop if the radius of curvature there is $18.0\ m$ and the downward acceleration of the char is $1.50g$? \\ \\
+             \[
+            a_c = \frac{mv^2}{r}
+            .\] 
+            \[
+            14.7 = \frac{v^2}{18}
+            .\] 
+            \begin{equation}
+                \boxed{v = 16.3\ \frac{m}{s}}
+            \end{equation} \\ 
+        \item A stunt pilot in an air show performs a loop-the-loop in a vertical circle of radius $3.18\times 10^3\ m$. During this performance the pilot, whose weight is $685\ N$, maintains a constant speed of  $2.10\times 10^2\ m$.
+            \begin{enumerate}
+                \item When the pilot is at the highest point of the loop, determine his apparent weight. \\ \\ 
+                You can calculate the apparent weight at the top of the loop with the equation
+                \[
+                \frac{mv^2}{r} - mg
+                .\] 
+                Plugging all the answers in, you get \fbox{284 N}. 
+                \item At what speed will the pilot experience weightlessness? \\ \\ 
+                You can get this speed with the equation
+                \[
+                mg = \frac{mv^2}{r}
+                .\] 
+                Plugging all the values in, you get \fbox{177 m/s}. 
+                \item When the pilot is at the lowest point of the loop determine his apparent weight. \\ \\ 
+                \[
+                mg + \frac{mv^2}{r} = N
+                .\] 
+                \begin{equation}
+                    \boxed{1654\ \text{N}}.
+                \end{equation}
+                    
+            \end{enumerate}
+            \item An unbanked cure of radius 150 m is rated for a maximum speed of $35.5\ \frac{m}{s}$. At what maximum speed, in m/s, should a flat curve with radius $61.0$ m be rated?
+            \[
+            g = \frac{v^2}{r}
+            .\] 
+            We find $g$ to be 8.4 $\frac{m}{s^2}$. Plugging the values for the next curve, we find the maximum speed to be \fbox{22.6 m/s}. 
+    \end{enumerate}
+\end{document}

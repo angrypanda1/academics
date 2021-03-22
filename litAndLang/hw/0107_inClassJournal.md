@@ -1,0 +1,9 @@
+# In-Class Journal 1
+
+> How does Woolf take the reader to the heart, inner core, of an imagined person? 
+
+Woolf uses an omniscient narrator that uses an uninvolved tone when describing the thoughts an actions of each of the character to allow the reader to realize how the thoughts (or inner core) of a character affects his or her actions.
+
+* When Mrs. Ramsay says that James will be allowed to go the lighthouse the next day "if it's fine tomorrow" (Page 1), Woolf describes James's personality as one that belonged "to that great clan which cannot keep this feeling separate from that, but must let future prospects, with their joys and sorrows, cloud what is actually at hand...", showing how this mentality of James's causes him to feel such love towards his mother,who says he is allowed to the lighthouse, compared to the rage and hate he feels against his father, who does not permit him to go. Woolf puts the character (in focus) in two contrasting situations to show a better picture of the character's personality to the reader. 
+* Woolf also tries to illustrate how societal norms affect the actions and personalities of the personality of the character in focus. For example, when Minta takes Nancy to the cliff, Woolf mentions that "however heavy-eyed one might be, one must needs ask, 'Is that Santa Sofia?' 'Is that the Golden Horn?' So Nancy asked, when Minta took her hand, 'What is it that she wants? Is it that' And what was that?" 
+* Lastly, Woolf tries to illustrate the reader's inner core by showing their perception and reactions to the actions of other characters; when Andrew observes Minta, he does it through his own eyes, allowing a glimpse into his own personality: "he liked her rashness, but he saw that it would not do -- she would kill herself in some idiotic way one of these days."

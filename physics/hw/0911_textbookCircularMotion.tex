@@ -1,0 +1,54 @@
+\documentclass[a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[english]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+\title{Circular Motion: Textbook Notes}
+\begin{document}
+  \maketitle 
+The \textbf{force} that provides the centripetal force is calculated with the equation 
+  \[
+  F = \frac{mv^2}{r} = m \omega ^2 r
+  .\] 
+  Also note that $\omega$ is angular velocity and can be related to frequency with the equation
+  \[
+  \omega = 2 \pi f
+  .\] 
+  \textbf{Angular Acceleration}, or the rate of change of ANGULAR speed with time, is calculated with the equation
+  \[
+  \alpha = \frac{\Delta \omega}{\Delta t}
+  .\]
+  Also note that angular accelerations is measured in $\text{rad} \cdot s^{-2}$.
+\\ \\ 
+Rotational motion also has 4 similar kinematic equations to normal motion:
+\[
+\omega_f = \omega_i + \alpha t
+.\] 
+\[
+\theta = \omega_i t + \frac{1}{2}\alpha t^2
+.\] 
+\[
+\omega_f^2 = \omega_i^2 + 2\alpha \theta
+.\] 
+\[
+    \theta = \frac{(\omega_i + \omega_f)t}{2}
+.\] 
+Pretty self-explanatory. 
+\end{document}
+

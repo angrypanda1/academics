@@ -1,0 +1,56 @@
+\documentclass[a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[english]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+\title{9.14 Exit Question}
+\author{Svadrut Kukunooru}
+\begin{document}
+    \maketitle
+\section{Question}%
+\label{sec:Question}
+An astronaut rotates at the end of a test machine whoe arm has a length of $10.0\ \text{m}$. If the maximum acceleration she reaches must not exceed $5g$, what is the maximum number of revolutions per minute of the arm? 
+\section{Solving}%
+\label{sec:Solving}
+\subsection{Variables}%
+\label{sub:Variables}
+\[
+    g = 9.81 \times 5 = 49.05
+.\] 
+\[
+    L = 10.0\ m
+.\] 
+\subsection{Solve}%
+\label{sub:Solve}
+We can use the equation for acceleration, 
+\[
+    a_c = \frac{v^2}{r}
+.\] 
+Plugging values in, 
+\[
+49.05 = \frac{v^2}{10}
+.\] 
+\[
+v = 22.14\ \frac{m}{s}
+.\] 
+Divide by the circumference and multiply by 60 to get the total period. 
+\[
+    \frac{22.14}{20\pi} \times 60 = \fbox{21.14\ \text{rpm}}
+.\] 
+\end{document}

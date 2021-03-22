@@ -1,0 +1,9 @@
+# The Exodus
+
+1. To what extent is the historical accuracy of the Exodus story possible?
+
+As usual, the Exodus story is probably accurate to a lesser extent, with a lot of exaggerations thrown in. There was probably not millions of people leaving Egypt at the same time -- according Rabbi Burt Visotzky, "Those are big numbers. You'd think someone would notice." This pattern of exaggerating the story to the point of fiction in repeated in other parts -- Moses probably didn't cross a sea, but rather a swamp. Because religion is an ideal in itself, it doesn't really matter whether the Exodus is historically accurate, because the stories just support the ideal -- you don't have to believe in the story to believe in the religion. Other evidence that the Exodus isn't historically accurate include the Egyptians' lack of recording the losing of a 2 million-strong workforce, confusion between holy sites and when they existed, and probably the strongest piece of evidence, no sign of plagues in Egypt. 
+
+2. To what extent does the historical accuracy of the Exodus story matter to the religion of Judaism? 
+
+As every religion tries to answer the "Why are we here?" question and uses stories to justify its answer, a lack of historical accuracy for a central story of Judaism obviously has an effect, since it basically established Judaism's values. In the Exodus , the would-be Jews (Israelites) are portrayed as people who don't listen to God and are constantly shunted one way or another by the people in power in the region. If the fact that the Israelites were a two-million-strong moving nation is false, then that detracts from the sense of community that Jews share, that they are discriminated against and victimized. (However, victimization is prevalent in almost every single other major religion as well to attract more people). Stories are an essential part of monotheistic religions because it's what people use to support their belief. 

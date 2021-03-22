@@ -1,0 +1,1 @@
+History does matter to an extent because studying history allows us to learn lessons from the past to use in the future, and people use history to argue their viewpoints because it is one of the best evidences for the argument -- logos.

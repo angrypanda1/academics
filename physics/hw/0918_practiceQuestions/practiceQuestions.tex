@@ -1,0 +1,115 @@
+\documentclass[a4paper]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[english]{babel}
+\usepackage{amsmath, amssymb}
+
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+    \def\svgwidth{\columnwidth}
+    \import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+\title{9.18 UCM Practice Questions}
+\author{Svadrut Kukunooru}
+\begin{document}
+    \maketitle
+    \begin{enumerate}
+        \item An object hangs from a light string and moves in a horizontal circle of radius $r$. The string makes an angle $\theta$ with the vertical. The angular speed of the object is $\omega$. What is $\text{tan}\ \theta$? \fbox{A}
+        \item An object of mass $m$ makes $n$ revolutions per second around a circle of radius $r$ at a constant speed. What is the kinetic energy of the object? \fbox{C}
+        \item A motorcyclist is cornering on a curved race track. Which combination of change soft banking angle $\theta$ and coefficient of friction $\mu$ between the tyres and road allows the motorcyclist to travel around the corner at greater speed? \fbox{A}
+        \item The mass at the end of a pendulum is made to move in a horizontal circle of radius $r$ at constant speed. The magnitude of the net force on the mass is $F$. What is the direction of $F$ and the work done by $F$ during half a revolution? \fbox{A}
+        \item An object of mass $m$ at the end of a string of length $r$ moves in a vertical circle at a constant angular speed $\omega$. What is the tension in the string when the object is at the bottom of the circle? \fbox{A}
+        \item A mass at the end of a string is swung in a horizontal circle at increasing speed until the string breaks. What is the subsequent path taken by the mass? \fbox{D}
+        \item A horizontal disc rotates uniformly at a constant angular velocity about a central axis norma lto the plane of the disc. Point $X$ is a distance $2L$ from the centre of the disc. Point Y is a distance $L$ from the centre of the disc. Point Y has a linear speed $v$ and a centripetal acceleration $a$. \fbox{B}
+        \item An electron moves with uniform circular motion in aregion of magnetic field. Which diagram shows the acceleration $a$ and velocity $v$ of the electron at point P? \fbox{B}
+        \item An object rotates in a horizontal circle when acted on by a centripetal force $F$. What is the centripetal force acting on the ojbect when the radius of the cicle doubles and the kinetic energy of the object halves? \fbox{A}
+        \item The maximum speed with which a car can take a circular turn of radius $R$ is $v$. The maximum speed with which the same car, under the same conditions, can take a circular turn of radius $2R$ is what? \fbox{B}
+        \item A car on a road follows a horizontal circular path at constant speed. Which of the following correctly identifies the origin and the direction of the net force on the car? \fbox{D}
+        \item Aibhe and Euan are sitting on opposite sides of a merry-go-round, which is rotating at constant speed around a fixed centre. The diagram below shows the diagram from above. Aibhe is moving at speed 1.00 $m \cdot s^{-1}$ relative to the ground. 
+            \begin{enumerate}
+                \item Determine the magnitude of the velocity of Aibhe relative to
+                \begin{enumerate}
+                \item Euan. \\ \\
+                    \fbox{$0\  m \cdot s^{-1}$, since the distance between the two isn't changing.} \\
+                \item the centre of the merry-go-round \\ \\
+                    \fbox{$0\ m \cdot s^{-1}$, since the distance between the two isn't changing.} \\
+                \end{enumerate}
+                \item \textbf{Do 4 things.}
+                    \begin{enumerate}
+                        \item Outline why Aibhe is accelerating even though she is moving at constant speed. \\ \\ 
+                        Even though the magnitude of her velocity isn't changing, her direction is. \\
+                    \item Draw an arrow on the diagram on page 22 to show the direction in which Aibhe is accelerating. \\ \\ 
+                        (I can't draw, so imagine an arrow from Aibhe to the center.) \\ 
+                    \item Identify the force that is causing Aibhe to move in a circle. \\ \\ 
+                        The centripetal force is pulling Aibhe towards the center. 
+                    \item The diagram below shows a side view of Aibhe and Euan on the merry-go-round. Explain why Aibhe feels as if her upper body is being "thrown outwards", away from the center of the merry-go-round. \\ \\ 
+                        Aibhe's upper body has inertia, unlike her lower body which is being pulled into the center of the circle. Therefore, she feels "pulled outwards". 
+                    \end{enumerate}
+                    \item Euan is rotating on a merry-go-round and drags his foot along the ground to act as a brake. The merry-go-round comes to a stop after 4.0 rotations. The radius of the merry-go-round is 1.5 m .The average frictional force between his foot and the ground is 45 N. Calculate the work done.  \\ \\ 
+            You can find the distance traveled by Euan by calculating circumference:
+            \[
+                4.0 \times 2\pi \times 1.5 = 37.70\ \text{m}
+            .\] 
+            \[
+                W = -Fd = 45 \times 37.70 = \fbox{1700\ J}
+            .\]
+        \item Aibhe moves so that she is sitting at a distance of 0.75 m from the centre of the merry-go-round, as shown below. Euan pushed the merry-go-round so that he is again moving at $1.0\ ms^{-1}$ relative to the ground. 
+            \begin{enumerate}
+                \item Determine Aibhe's speed relative to the ground. \\ \\ 
+                    You can calculate velocity with the equation
+                    \[
+                    v = \frac{2\pi r}{T}
+                    .\] 
+                    Since $r$ is halved, that means that $v$ is also halved. Therefore, \\
+                \begin{equation}                    
+                    \boxed{
+                    v = 0.5\ \frac{m}{s}
+            .}
+                \end{equation}
+                \item Calculate the magnitude of Aibhe's acceleration. \\ \\ 
+                    You can calculate acceleration with the equation
+                    \[
+                    a = \frac{v^2}{r}
+                    .\] 
+                    \[
+                    a = \frac{0.5^2}{0.75}
+                    .\] 
+                    \begin{equation}
+                        \boxed{a = 0.33\ \frac{m}{s}}
+                    \end{equation}
+            \end{enumerate}
+            \end{enumerate} 
+            \item This question is about circular motion. The diagram shows a car moving at a constant speed over a curved bridge. At the position shown, the top surface of the bridge has a radius of curvature of 50 m. 
+            \begin{enumerate}
+                \item Explain why the car is accelerating even though it is moving with a constant speed. \\ \\ 
+                    \fbox{The car is accelerating because its direction is changing.} \\ 
+                \item On the diagram, draw and label the vertical forces acting on the car in the position shown. \\ \\ 
+                    \noindent\fbox{%
+                    \parbox{\textwidth}{%
+                (I can't draw, so imagine a longer arrow going down and two small normal forces going up from the wheels.)
+            }%
+            }
+            \item Calculate the maximum speed at which the car will stay in contact with the bridge. 
+                You can calculate maximum speed with the equation
+                \begin{equation}
+                    g = \frac{v^2}{r}
+                \end{equation}
+                \begin{equation}
+                    v = \sqrt{50 \times 9.8}
+                \end{equation}
+                \begin{equation}
+                    \boxed{22\ m \cdot s^{-1}.}
+                \end{equation}
+            \end{enumerate}
+    \end{enumerate}
+\end{document}
