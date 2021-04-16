@@ -1,0 +1,12 @@
+# LA "The Reader" Prompts
+
+> How does Schlink explore the theme of illiteracy and to what effect? 
+
+In *The Reader*, Bernard Schlink explores the theme of illiteracy by showing the effect it has on the main supporting character, Hanna. In this book, being illiterate is portrayed as a huge limiter, showing how Hanna's job options are severely reduced due to her inability to read. In fact, Hanna views the job she has now, a train conductor, as idiotic, saying after Michael describes his schoolwork as idiotic, "Your work is idiotic? Idiotic? What do you think selling and punching tickets is?" (35). Hanna is forced to do a job she despises because she is too ashamed to admit that she cannot read and therefore learn to read. Illiteracy is a mark of shame for Hanna that she will hide at all costs, including admitting that she was responsible for crimes she did not actually commit. During the trial, when Hanna is accused of writing an incriminating report, the judge, jury, and prosecution consider using Hanna's handwriting to verify that she did in fact write the report. However, Hanna realizes that she must reveal that she cannot write if a sample of her handwriting is asked of her. Therefore, "becoming increasingly alarmed" (129) that her handwriting is required, she finally caves in and lies that she wrote the report.
+
+Additionally, there are several ways to interpret what "reading" actually means -- it may mean reading a book, or being able to correctly interpret a situation. Hanna's book illiteracy also transfers to her inability to read situations, and Michael describes her street smarts as such: "She has no sense of context, of the rules of the game, of the formulas by which her statements and those of the others were toted up into guilt and innocence, conviction and acquittal." (110). 
+
+Hanna's illiteracy, both in conversations and reading books, is a metaphor for her generation's inability to take responsibility for the atrocities they committed -- or watched -- during the Holocaust. Michael notes that instead of actively hiding the fact that she couldn't read, Hanna could've just spent the same amount of energy in learning how to read. The same applies to the people who turned a blind eye to the Nazis' atrocities -- instead of passively (or actively) participating in mass murder, they could have figured out why the Nazis were targeting the Jews. 
+
+In conclusion, Schlink uses the theme of illiteracy to explore the multiple meanings through which the word can be considered and if it is a shameful characteristic to have. 
+

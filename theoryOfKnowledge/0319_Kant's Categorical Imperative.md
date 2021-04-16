@@ -6,3 +6,53 @@
 * Another example: a man wants to borrow money, but knows he must lie to get the money on credit and say that he is able to pay it back. Now, considering this as a universal law of nature, it would completely screw society up. Therefore, it is immoral to do this. 
 * A man is super talented but would rather enjoy himself rather than help people with his talent. If this was a universal law of nature, society would collapse. 
 * A man who is rich does not want to help someone who is poor because it's none of his business. If this was a universal law of nature
+
+# Jeremy Bentham's Hedonistic Calculus
+
+* Humans operate all of their actions based on the amount of pain or pleasure an action gives
+* Utility itself is defined as the amount of pain or pleasure an object provides so utilitarianism is ultimately just hedonistic calculus
+  * For example, being utilitarian on a decision for a population is simply just deciding which decision will give the population the most pleasure and the least pain
+* The interests of a community are the sum of the parts of the interests of individuals in that community
+* Being completely opposed to this "principle of utility" is called asceticism, and being somewhat opposed to it but somewhat supporting it is called sympathy/empathy
+* Asceticism is just people realizing that good stuff isn't very good in the long run and overcompensating by promoting pain-inducing stuff
+* The more consistently the principle of utility is pursued, the better for humankind.
+* The amount of pain and pleasure is measured by 4 factors: 
+  * intensity
+  * duration
+  * certainty/uncertainty
+  * remoteness
+* He then goes into an extremely detailed but kind of stupid procedure on how exactly to measure pain or pleasure
+* Pain/pleasure shouldn't be used for *every* legislative decision, but it should always be considered
+
+1. Considering Bentham's Calculus, how well would it work if used as a system of governing one's own actions?
+
+I don't think it would be a very good factor in governing one's own actions, unless done properly. Let's say you have to decide whether to talk to your annoying boss about a raise. This will cause you pain -- in the short term. However, if you do manage to get a raise, you will be happier long-term. Always prioritize long-term pleasure and I think using hedonistic calculus would make a fine decision-making strategy. 
+
+2. What if Bentham's utilitarianism were used as a parenting strategy? How much would you like your parents to use it as a system of governing? 
+
+It would not be a very good system of governing, as it is a little different with kids. Constantly prioritizing the kids' short term pleasure would not be conducive to maintaining their physical -- and emotional -- health and would not be a good way to prepare them for the future challenges of being an adult. I would hate for my parents to use this strategy -- to be honest, being a spoiled brat is basically the product of parents using hedonistic calculus multiple times over. 
+
+3. How effective would the system be at governing the federal government? Pick one contemporary issue and apply it. 
+
+I think the system would be a good way for a government to rule its people -- if its people were morally perfect. This sounds a lot like communism to me -- prioritizing the pleasure and minimizing the pain of the greater good. It never works because humans are selfish creatures. In the case that all humans were perfect beings who all had a grasp on this hedonistic calculus concept, then yeah, it would be a good way for a government to rule. 
+
+An example of a contemporary issue: gun control. Allowing guns validates the pleasures of a small group of gun-owning people, heavily controlling guns minimizes the pain (worry of violence) of a large part of the population. Therefore, using Bentham's theory, having gun control is the best solution. 
+
+# John Stuart Mill -- Utilitarianism
+
+* Actions are right in proportion to their promoting happiness. BRUH THIS IS LITERALLY THE EXACT SAME AS THE PREVIOUS ARTICLE
+* Yeah this is just a much more succinct summary of Bentham's theory
+
+1. How does Mill's view differ from your philosophy? 
+
+Mill's view differs from my philosophy in that I feel his philosophy is much more short-term. "Actions are desirable either for the pleasure inherent in themselves...". It makes sense to have this mindset for long-term decisions and goals, but this mindset isn't conducive at all to short-term decisions. For example, I want to eat a donut now, because it will provide me with pleasure. However, I know in the long-term that eating this donut will give a bigger chance at getting cavities, worse breath, and more weight. Therefore, I agree with Mill's view for long-term goals, but not for short-term ones. 
+
+# Aristotle -- Science, Politics, and Ethics
+
+* Rationalism was advocated by Plato, but Aristotle also wanted to take into account experiences with nature
+* Aristotle based his ethics on reason; people can have good lives if they choose moderation in all that they do
+* A community is a group of people, but a state is something created to help that community have a good quality of life
+* The only just sovereign method of rule is to have the majority rule (democracy) 
+
+
+
