@@ -53,6 +53,41 @@ Mill's view differs from my philosophy in that I feel his philosophy is much mor
 * Aristotle based his ethics on reason; people can have good lives if they choose moderation in all that they do
 * A community is a group of people, but a state is something created to help that community have a good quality of life
 * The only just sovereign method of rule is to have the majority rule (democracy) 
+* It is best to live a life of moderation (similar to Buddhism). Therefore, own a middling amount of items. People who have extreme personalities on either side of the spectrum don't succeed; only people in the middle do
+* You should be moderate in your ethics too; don't go too far to either side and you'll be fine
+
+1. What evidence in Aristotle's description of chick embryo development illustrates his use of empirical methods of scientific inquiry? 
+
+   The empirical methods of scientific inquiry include very careful observation, as Aristotle demonstrates by observing which direction in which the egg grows. He also uses multiple trials in his experiment, as observed by his observation of removed eyes, implying that he used at least two trials -- one where the eyes were removed and one where the chick was allowed to grow to full size. 
+
+2. Why did Aristotle believe that state power was best left in the hands of the middle classes? Why did he fear government by the poor, the tyrant, the few, the good, or the rich?
+
+   Aristotle believed that the middle class would be the best at ruling since they were the most moderate in terms of classes; they want nothing and they want for nothing. As for the rest: 
+
+   * The poor: They are "delinquent" and "wicked in petty ways". They are also too subservient. 
+   * The rich: They commit "crimes on a large scale". They are too full of their own superiority to do any actual work. 
+   * The tyrant: The few but worse because the tyrant has more right to use force
+   * The few: Aristotle thinks that too few people ruling would result in them robbing everyone else and keeping it for themselves
+   * The many: distributing the wealth of a few people to the rest of the population isn't exactly just
+   * The good: This means that people who are not "good" are completely barred from participating in the government. How do you decide which people are good? 
+
+3. According to Aristotle, how did the "proud man", a man of excellence, relate to others? To worldly success and riches? 
+
+   The "proud man", contrary to his name, does not become overly proud when good fortune befalls him. In fact, his reactions are moderate to everything that happens to him. The proud man gives things to others but does not like receiving things. 
+
+4. What kind of moral values did the proud man cultivate?
+
+   The proud man's morals are to be humble (???) and to not be jealous. He does not gossip. He takes most things seriously. In other words, he is moderate in all of his actions. 
+
+5. Aristotle urged both self-sufficiency and moderation as guiding principles in human life. In what specific ways would the proud man demonstrate these virtues? 
+
+   The proud man would demonstrate his self-sufficiency in his not needing approval from other people for his own happiness. The proud man demonstrates moderation in all of his actions, neither going over the top or under-performing in anything. 
+
+   
+
+
+
+
 
 
 
